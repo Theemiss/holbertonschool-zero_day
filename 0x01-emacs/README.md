@@ -1,1 +1,1 @@
-Emacs project
+learning Emacs project
